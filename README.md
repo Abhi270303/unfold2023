@@ -1,5 +1,5 @@
 # unfold2023
-Certainly! Here's a README.md template based on the information you provided for your "Cross Chain NFT Lending Platform" project:
+Cross Chain NFT Lending Platform" project:
 
 ## Video Link for Contracts Working
 <br/>
