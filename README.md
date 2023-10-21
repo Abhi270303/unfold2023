@@ -24,11 +24,11 @@ The Cross Chain NFT Lending Platform is designed to simplify the process of usin
    - Fund the LendBorrow.sol contract on FUJI with your NFTs.
 
 3. **Cross-Chain Approval:**
-   - Give approval to the LendBorrow.sol contract on the FUJI network.
+   - Give approval to the LendBorrow.sol contract on the FUJI network so that he can pull NFT from our NFT contract.
 
 4. **Bridging NFTs:**
    - Deploy the Bridge Contract for the FUJI network.
-   - Set the bridge for the LendBorrow.sol contract to enable cross-chain NFT management.
+   - Set the bridge for the LendBorrow.sol contract to enable cross-chain messaging management.
 
 5. **Cross-Chain Expansion:**
    - Deploy the LendBorrow.sol contract on the Polygon network.
@@ -36,10 +36,10 @@ The Cross Chain NFT Lending Platform is designed to simplify the process of usin
    - Set the bridge for the LendBorrow.sol contract on Polygon.
 
 6. **Interconnected Lending:**
-   - Set bridges between the FUJI, Polygon, and Avalanche networks to facilitate seamless cross-chain transactions.
+   - Set bridges between the FUJI and Polygon networks to facilitate seamless cross-chain transactions means set the addresses of bridges on both lendborrow contracts so that bridges can communicateb with each other.
 
 7. **Asset Valuation:**
-   - Set floor prices for your NFT assets on the FUJI network to ensure that your NFTs maintain their value.
+   - Set floor prices (Manually Chainlink Floor price of NFT is not avaialble for fuji) for your NFT assets on the FUJI network to ensure that your NFTs maintain their value.
 
 8. **Deposit and Withdrawal:**
    - Deposit your NFT assets to secure a loan on any chain of your choice.
@@ -77,6 +77,9 @@ Set Floor Price of NFT on FUJI
 Deposit NFT
 Withdraw Tokens From Everywhere
 
+
+# Frontend 
+<h2> The Front end may not work cause the dealine has already been finished but you can reffer to the video that Cross chains calls are happening on all chains every functionality is working fine </h2>
 
 ## Frontend Landing Page
 ![image](https://github.com/TechieeGeeeks/unfold2023/assets/99035115/67c015d5-2f68-4b43-9f3a-985df861084e)
