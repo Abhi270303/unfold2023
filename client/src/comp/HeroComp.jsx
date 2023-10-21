@@ -13,11 +13,10 @@ const HeroComp = () => {
         <Lottie animationData={heroAnimation} />
 
         <p className=" text-subtitleColor md:pl-10 text-center md:text-left">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique ex
-          accusantium facilis a ducimus
+          Unlocking NFT Potential Across All Chains: Your Journey, Your Way (Cross chain Lending and Borrowing for NFT's)
         </p>
-        <button className=" md:ml-10 font-semibold bg-primaryColor p-4 px-8 text-backgroundColor rounded-lg mt-8">
-          Some Text
+        <button className=" md:ml-10 font-semibold bg-primaryColor p-4 px-8 text-backgroundColor rounded-lg mt-8" href="https://blog.chain.link/cross-chain-defi/#:~:text=Cross%2Dchain%20lending%20allows%20users,within%20that%20on%2Dchain%20environment.">
+          Learn What is Cross Chain Lending
         </button>
       </div>
 
