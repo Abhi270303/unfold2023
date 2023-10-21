@@ -2,7 +2,9 @@
 Certainly! Here's a README.md template based on the information you provided for your "Cross Chain NFT Lending Platform" project:
 
 ## Video Link for Contracts Working
+<br/>
 (Part 1)[https://www.loom.com/share/6996e71782574a62a9e7f23cd2c005ef?sid=4d17fbb5-12db-4129-97a5-4c507ad7b3fb]
+<br/>
 (Part 2)[https://www.loom.com/share/06f9fc1f85aa43feb6719136af25e2bc]
 
 # Cross Chain NFT Lending Platform
