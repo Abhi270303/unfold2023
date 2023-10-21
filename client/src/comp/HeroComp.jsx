@@ -15,8 +15,8 @@ const HeroComp = () => {
         <p className=" text-subtitleColor md:pl-10 text-center md:text-left">
           Unlocking NFT Potential Across All Chains: Your Journey, Your Way (Cross chain Lending and Borrowing for NFT's)
         </p>
-        <button className=" md:ml-10 font-semibold bg-primaryColor p-4 px-8 text-backgroundColor rounded-lg mt-8" href="https://blog.chain.link/cross-chain-defi/#:~:text=Cross%2Dchain%20lending%20allows%20users,within%20that%20on%2Dchain%20environment.">
-          Learn What is Cross Chain Lending
+        <button className=" md:ml-10 font-semibold bg-primaryColor p-4 px-8 text-backgroundColor rounded-lg mt-8" src="https://blog.chain.link/cross-chain-defi/#:~:text=Cross%2Dchain%20lending%20allows%20users,within%20that%20on%2Dchain%20environment.">
+          Learn more
         </button>
       </div>
 
